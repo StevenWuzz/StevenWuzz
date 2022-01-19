@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steven Hans Limantoro. 
-- 👀 I’m interested in Backend/Full-Stack Web/Mobile Development, and AI/ML Development
-- 🌱 I’m currently learning Spring/Spring Boot 
+- 👀 I’m interested in Backend/Full-Stack Web/Mobile Development, AI/ML Development, and Blockchain/Cryptocurrency Development
+- 🌱 I’m currently learning Spring/Spring Boot, and Blockchain/Cryptocurrency 
 - 💞️ I’m looking to collaborate on virtually anything related to Software Development!
 - 📫 How to reach me: steven.limantoro@gmail.com
 
